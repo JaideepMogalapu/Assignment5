@@ -7,14 +7,14 @@ Mogalapu Gideon Jaideep Sudarshan
 # Course and CRN    : 
 CS 5710 and 21627
 # Description : 
-This Project is implementing dataframes using pandas. We have performed many operations like checking for null, replacing the values in data.
-deleting colums. modifying the datatyes.
-We have seen the implementation various IPC like Naive Bayers and SVM
-we Found the correlation between ‘survived’ (target column) and ‘sex’ column for the Titanic use case in class
-We have plotted the histogram and bar chart.
-Implemented Naïve Bayes method using scikit-learn library and reported the accuracy.
-For the glass data set we found naive bayes is more accurate than SVM dependind on the acuracy parameter
-
-# Files attached :
+This Project is about Clustering & Dimensionality reduction.We have various ICP used for achieving this.
+Principal Component Analysis (PCA) is a technique used to reduce the dimensions of a dataset while retaining most of its variation. 
+we used the k-means algorithm on the reduced-dimensionality space to cluster the data points.
+By using scaling, PCA, and k-means in a pipeline, we  simplified the code and improved the performance of clustering.
+SVM:
+Support Vector Machines (SVM) is a popular machine learning algorithm used for classification and regression analysis
+Scaling:
+Scaling is a pre-processing step that is usually performed on data to normalize the range of values of each feature. This step ensures that each feature is treated equally by the machine learning algorithm. In this case, we used the StandardScaler from the scikit-learn library to perform scaling on the pd_speech_features.csv dataset.
+# Files attached .
 python code - assignment5
 word document - 700740439_Assignment5_MachineLearning
